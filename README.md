@@ -22,6 +22,12 @@ Can be automatically launched with Steam's launch options, or can be opened manu
 
 No Linux version since DXVK is required there, enjoy your good performance :P
 
+# Known issues
+
+* Using the Steam launch options on a non-Steam game crashes Steam entirely.\
+This seems to be a problem with `%command%` on every non-Steam game, the cause is unknown, but possible culprits are lack of install scripts or a proper installation folder.
+
 # Credits
 
 * Thanks [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Crazy_Taxi_(Steam)#DXVK) for the DXVK performance fix!
+* [SEGA](https://sega.com) for making Crazy Taxi, support their work by [buying the game](https://store.steampowered.com/app/71230/Crazy_Taxi) or the [Dreamcast Collection](https://store.steampowered.com/bundle/14082/Dreamcast_Collection) on Steam.
